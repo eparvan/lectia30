@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Lectia 30</h1>
+    <hr/>
 </body>
 </html>
